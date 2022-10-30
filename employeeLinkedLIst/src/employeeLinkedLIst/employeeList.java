@@ -1,5 +1,5 @@
 package employeeLinkedLIst;
-//EMPLOYEELIST
+//EMPLOYEELIST NEW
 public class employeeList 
 {
 	private employeeNode header; // This will point to the first Node in the list 
