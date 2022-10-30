@@ -1,5 +1,5 @@
 package employeeLinkedLIst;
-
+//EMPLOYEENODE
 public class employeeNode 
 {
 	public Employee newEmployee;

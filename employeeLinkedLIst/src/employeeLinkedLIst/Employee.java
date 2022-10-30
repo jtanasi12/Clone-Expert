@@ -1,5 +1,5 @@
 package employeeLinkedLIst;
-
+//EMPLOYEE
 public class Employee 
 {
 	private String firstName;
